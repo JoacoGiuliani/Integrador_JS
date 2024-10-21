@@ -21,7 +21,7 @@ Sigue estos pasos para instalar y ejecutar el proyecto localmente:
 
 1. **Clona este repositorio**:
    ```bash
-   git clone https://github.com/MannMatias/Integrador_JS
+   git clone https://github.com/JoacoGiuliani/Integrador_JS.git
 
 2. **Navega al directorio del proyecto:**
 
